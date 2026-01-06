@@ -19,7 +19,14 @@ shadow_synthesis/
 ├── shadow_free_images/          # Shadow-free document images (train/val/test split)
 └── outputs/                     # Generated datasets (auto-created)
 ```
+## Dependency List
 
+1. Python 3.6 or higher: The programming language used for the script.
+2. PyTorch 1.9.0 or higher: A deep learning framework used for tensor operations and image reading.
+3. torchvision 0.10.0 or higher: A library for computer vision that provides image transformations and utilities.
+4. Pillow (PIL) 8.0.0 or higher: A library for image processing, used for opening, manipulating, and saving images.
+
+   
 ## Quick Start
 
 1. **Prepare Data**:
