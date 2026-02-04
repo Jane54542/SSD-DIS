@@ -7,7 +7,7 @@ This repository contains the core code for generating the SSD-DIS (Semi-Syntheti
 
 The complete SSD-DIS dataset (12,224 image triples) is available at:
 
-Figshare (Recommended for international users): https://figshare.com/account/articles/29401811
+Figshare (Recommended for international users): https://doi.org/10.6084/m9.figshare.29401811
 
 Baidu Disk (百度网盘, for users in China): https://pan.baidu.com/s/5ZmiPhoGZz1kqI0KxFl93aQ
 
